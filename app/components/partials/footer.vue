@@ -3,6 +3,7 @@
     <div class="container mx-auto pb-6 flex justify-center">
       <a href="https://merake.net">
         <img src="https://merake.net/wp-content/uploads/2020/04/cropped-merake%CC%80-logo-300x61.png" width="150px" height="auto" alt="meraké lab">
+        [![Netlify Status](https://api.netlify.com/api/v1/badges/49a0ba5a-5b84-4d50-84a0-f72a7ea089ed/deploy-status)](https://app.netlify.com/sites/aviosservo/deploys)
         <!--<svg
           baseProfile="tiny"
           height="32px"
