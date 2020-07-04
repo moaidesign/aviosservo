@@ -13,6 +13,7 @@
           xmlns="http://www.w3.org/2000/svg"
           xmlns:xlink="http://www.w3.org/1999/xlink"
         >
+        [![Netlify Status](https://api.netlify.com/api/v1/badges/49a0ba5a-5b84-4d50-84a0-f72a7ea089ed/deploy-status)](https://app.netlify.com/sites/aviosservo/deploys)
           <g>
             <g>
               <g>
