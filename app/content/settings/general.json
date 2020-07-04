@@ -1,7 +1,7 @@
 {
   "title": "Home",
   "titleTemplate": "| Aviosservo",
-  "welcomeText": "# Nature is calling you.\n\nOrganizzare, pianificare, camminare, sudare... è quello che facciamo per immortalare la bellezza della natura, un'albero che viene scosso dal vento o una goccia d'acqua che cade dal becco di un airone... ne vale la pena!",
+  "welcomeText": "# Nature is calling you.\n\nOrganizzare, pianificare, camminare, sudare... è quello che facciamo per immortalare la bellezza della natura, un'albero che viene scosso dal vento o una goccia d'acqua che cade dal becco di un airone... ne vale la pena!\n\n\n[![Netlify Status](https://api.netlify.com/api/v1/badges/49a0ba5a-5b84-4d50-84a0-f72a7ea089ed/deploy-status)](https://app.netlify.com/sites/aviosservo/deploys)",
   "logo": "/images/uploads/logo.svg",
   "icon": "/images/uploads/logo.png",
   "loadingColor": "#0b3765",
