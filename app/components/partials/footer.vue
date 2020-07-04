@@ -2,7 +2,8 @@
   <footer class="footer -mx-4 md:mx-0">
     <div class="container mx-auto pb-6 flex justify-center">
       <a href="https://merake.net">
-        <svg
+        <img src="https://merake.net/wp-content/uploads/2020/04/cropped-merake%CC%80-logo-300x61.png" width="150px" height="auto" alt="meraké lab">
+        <!--<svg
           baseProfile="tiny"
           height="32px"
           fill="white"
@@ -13,8 +14,7 @@
           xmlns="http://www.w3.org/2000/svg"
           xmlns:xlink="http://www.w3.org/1999/xlink"
         >
-          <img src="https://merake.net/wp-content/uploads/2020/04/cropped-merake%CC%80-logo-300x61.png" width="150px" height="auto" alt="meraké lab">
-          <!--<g>
+         <g>
             <g>
               <g>
                 <path
@@ -22,8 +22,8 @@
                 />
               </g>
             </g>
-          </g>-->
-        </svg>
+          </g>
+        </svg>-->
       </a>
     </div>
   </footer>
